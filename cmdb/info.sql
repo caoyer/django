@@ -1,0 +1,1 @@
+insert into mysite_cmdb(host,port,team,func,config,operation,update_date)values('10.0.0.1',58022,0,'运维自动化平台app01','8C32G','caoyuan',now()),('10.0.0.3',58022,0,'运维自动化平台app02','4C16G','caoyuan',now()),('10.0.0.5',22,2,'网络设备','8C32G','lucy',now()),('10.0.0.4',22,3,'软件开发','8C32G','caoyuan',now()), ('10.0.0.2',22,1,'测试平台','8C32G','lucy',now());
